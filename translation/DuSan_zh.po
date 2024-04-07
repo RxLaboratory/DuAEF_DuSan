@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dusan\n"
 "POT-Creation-Date: 2022-08-14 18:00\n"
-"PO-Revision-Date: 2024-04-07 17:44\n"
+"PO-Revision-Date: 2024-04-07 19:51\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -100,172 +100,172 @@ msgstr "專案項目"
 #: init.jsxinc:115
 #, qt-format
 msgid "Duplicated footages"
-msgstr ""
+msgstr "已重覆的素材"
 
 #: init.jsxinc:116
 #, qt-format
 msgid "Unused footages"
-msgstr ""
+msgstr "未被使用的素材"
 
 #: init.jsxinc:117
 #, qt-format
 msgid "Precompositions"
-msgstr ""
+msgstr "預先合成"
 
 #: init.jsxinc:118
 #, qt-format
 msgid "Main compositions"
-msgstr ""
+msgstr "主要合成"
 
 #: init.jsxinc:119
 #, qt-format
 msgid "Memory in use"
-msgstr ""
+msgstr "記憶體使用量"
 
 #: init.jsxinc:120
 #, qt-format
 msgid "Essential properties"
-msgstr ""
+msgstr "基本屬性"
 
 #: init.jsxinc:121
 #, qt-format
 msgid "Time since last save"
-msgstr ""
+msgstr "自上次儲存的時間"
 
 #: init.jsxinc:122
 #, qt-format
 msgid "Up time"
-msgstr ""
+msgstr "運作時間"
 
 #: scriptui.jsxinc:31
 #, qt-format
 msgid "Sanity status: Unknown"
-msgstr ""
+msgstr "健全狀態: 未知"
 
 #: scriptui.jsxinc:33
 #, qt-format
 msgid "Sanity status: OK"
-msgstr ""
+msgstr "健全狀態: 正常"
 
 #: scriptui.jsxinc:35
 #, qt-format
 msgid "Sanity status: Information"
-msgstr ""
+msgstr "健全狀態: 資訊"
 
 #: scriptui.jsxinc:37
 #, qt-format
 msgid "Sanity status: Warning"
-msgstr ""
+msgstr "健全狀態: 警告"
 
 #: scriptui.jsxinc:39
 #, qt-format
 msgid "Sanity status: Danger"
-msgstr ""
+msgstr "健全狀態: 危險"
 
 #: scriptui.jsxinc:41
 #, qt-format
 msgid "Sanity status: Critical"
-msgstr ""
+msgstr "健全狀態: 危急"
 
 #: scriptui.jsxinc:43
 #, qt-format
 msgid "Sanity status: Fatal"
-msgstr ""
+msgstr "健全狀態: 致命"
 
 #: scriptui.jsxinc:57
 #, qt-format
 msgid "OK"
-msgstr ""
+msgstr "確定"
 
 #: scriptui.jsxinc:63
 #, qt-format
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #: scriptui.jsxinc:71
 #, qt-format
 msgid "Information"
-msgstr ""
+msgstr "資訊"
 
 #: scriptui.jsxinc:75
 #, qt-format
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 #: scriptui.jsxinc:79
 #, qt-format
 msgid "Danger"
-msgstr ""
+msgstr "危險"
 
 #: scriptui.jsxinc:83
 #, qt-format
 msgid "Critical"
-msgstr ""
+msgstr "危急"
 
 #: scriptui.jsxinc:87
 #, qt-format
 msgid "Fatal"
-msgstr ""
+msgstr "致命"
 
 #: scriptui.jsxinc:195
 #, qt-format
 msgid "Run all tests"
-msgstr ""
+msgstr "執行全部測試"
 
 #: scriptui.jsxinc:196
 #, qt-format
 msgid "Run all the tests and displays the results."
-msgstr ""
+msgstr "執行全部測試並顯示結果。"
 
 #: scriptui.jsxinc:246
 #, qt-format
 msgid "Toggle this test for the current project only."
-msgstr ""
+msgstr "僅對目前專案開關這個測試。"
 
 #: scriptui.jsxinc:260
 #, qt-format
 msgid "Enable or disable automatic live-fix."
-msgstr ""
+msgstr "啟用或停用自動即時修復。"
 
 #: scriptui.jsxinc:271
 #, qt-format
 msgid "Fix now."
-msgstr ""
+msgstr "立刻修復。"
 
 #: scriptui.jsxinc:287
 #, qt-format
 msgid "Run the current test."
-msgstr ""
+msgstr "執行目前的測試。"
 
 #: scriptui.jsxinc:295
 #, qt-format
 msgid "Change the test settings."
-msgstr ""
+msgstr "更改測試的設定。"
 
 #: scriptui.jsxinc:299
 #, qt-format
 msgid "Options"
-msgstr ""
+msgstr "選項"
 
 #: scriptui.jsxinc:302
 #, qt-format
 msgid "Test every:"
-msgstr ""
+msgstr "測試間隔:"
 
 #: scriptui.jsxinc:338
 #, qt-format
 msgid "Default"
-msgstr ""
+msgstr "預設值"
 
 #: comp.jsxinc:589
 #, qt-format
 msgid "Null"
-msgstr ""
+msgstr "空"
 
 #: comp.jsxinc:638
 #, qt-format
 msgid "Adjustment layer"
-msgstr ""
+msgstr "調整圖層"
 
 #: comp.jsxinc:667
 #, qt-format
