@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dusan\n"
 "POT-Creation-Date: 2022-08-14 18:00\n"
-"PO-Revision-Date: 2022-08-14 16:06\n"
+"PO-Revision-Date: 2024-04-07 19:51\n"
 "Last-Translator: \n"
-"Language-Team: Chinese Simplified\n"
+"Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,15 +12,15 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: dusan\n"
 "X-Crowdin-Project-ID: 531634\n"
-"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /main/translation/DuSan.pot\n"
 "X-Crowdin-File-ID: 18\n"
-"Language: zh_CN\n"
+"Language: zh_TW\n"
 
 #: core.jsxinc:295
 #, qt-format
 msgid "Fix"
-msgstr "修复"
+msgstr "修復"
 
 #: init.jsxinc:48
 #, qt-format
@@ -30,152 +30,152 @@ msgstr "大小限制 (MB)"
 #: init.jsxinc:55
 #, qt-format
 msgid "Maximum number of items"
-msgstr "最大项目数"
+msgstr "最大項目數量"
 
 #: init.jsxinc:62
 #, qt-format
 msgid "Maximum number of precompositions in the root folder"
-msgstr "根目录中的最大预合成数"
+msgstr "根目錄中預先合成的最大數量"
 
 #: init.jsxinc:66
 #, qt-format
 msgid "Default folder for precompositions"
-msgstr "预合成的默认文件夹"
+msgstr "預先合成的預設資料夾"
 
 #: init.jsxinc:73
 #, qt-format
 msgid "Maximum unused comps in the project"
-msgstr "工程中的最大未使用合成数"
+msgstr "專案中未被使用的合成最大數量"
 
 #: init.jsxinc:77
 #, qt-format
 msgid "Folder for main comps (leave empty for project root)"
-msgstr "主合成文件夹（留空则工程根目录）"
+msgstr "主要合成的資料夾 (留空為專案根目錄)"
 
 #: init.jsxinc:84
 #, qt-format
 msgid "Maximum memory (GB)"
-msgstr "最大内存 (GB)"
+msgstr "最大記憶體數量 (GB)"
 
 #: init.jsxinc:91
 #, qt-format
 msgid "Maximum number of essential properties in a comp"
-msgstr "合成中基本属性的最大数量"
+msgstr "合成中基本屬性的最大數量"
 
 #: init.jsxinc:98
 #, qt-format
 msgid "Time limit before saving the project (mn)"
-msgstr "保存工程前的时间限制（分钟）"
+msgstr "儲存專案前的時間限制 (分)"
 
 #: init.jsxinc:105
 #, qt-format
 msgid "Uptime limit (mn)"
-msgstr "运行时间限制（分钟）"
+msgstr "運作時間限制 (分)"
 
 #: init.jsxinc:110
 #, qt-format
 msgid "Composition Names"
-msgstr ""
+msgstr "合成名稱"
 
 #: init.jsxinc:111
 #, qt-format
 msgid "Layer Names"
-msgstr ""
+msgstr "圖層名稱"
 
 #: init.jsxinc:112
 #, qt-format
 msgid "Expression engine"
-msgstr ""
+msgstr "表達式引擎"
 
 #: init.jsxinc:113
 #, qt-format
 msgid "Project size"
-msgstr ""
+msgstr "專案大小"
 
 #: init.jsxinc:114
 #, qt-format
 msgid "Project items"
-msgstr "工程项目"
+msgstr "專案項目"
 
 #: init.jsxinc:115
 #, qt-format
 msgid "Duplicated footages"
-msgstr ""
+msgstr "已重覆的素材"
 
 #: init.jsxinc:116
 #, qt-format
 msgid "Unused footages"
-msgstr ""
+msgstr "未被使用的素材"
 
 #: init.jsxinc:117
 #, qt-format
 msgid "Precompositions"
-msgstr ""
+msgstr "預先合成"
 
 #: init.jsxinc:118
 #, qt-format
 msgid "Main compositions"
-msgstr ""
+msgstr "主要合成"
 
 #: init.jsxinc:119
 #, qt-format
 msgid "Memory in use"
-msgstr ""
+msgstr "記憶體使用量"
 
 #: init.jsxinc:120
 #, qt-format
 msgid "Essential properties"
-msgstr ""
+msgstr "基本屬性"
 
 #: init.jsxinc:121
 #, qt-format
 msgid "Time since last save"
-msgstr ""
+msgstr "自上次儲存的時間"
 
 #: init.jsxinc:122
 #, qt-format
 msgid "Up time"
-msgstr ""
+msgstr "運作時間"
 
 #: scriptui.jsxinc:31
 #, qt-format
 msgid "Sanity status: Unknown"
-msgstr "健康状态：未知"
+msgstr "健全狀態: 未知"
 
 #: scriptui.jsxinc:33
 #, qt-format
 msgid "Sanity status: OK"
-msgstr "健康状态：好"
+msgstr "健全狀態: 正常"
 
 #: scriptui.jsxinc:35
 #, qt-format
 msgid "Sanity status: Information"
-msgstr "健康状态：情报"
+msgstr "健全狀態: 資訊"
 
 #: scriptui.jsxinc:37
 #, qt-format
 msgid "Sanity status: Warning"
-msgstr "健康状态：警告"
+msgstr "健全狀態: 警告"
 
 #: scriptui.jsxinc:39
 #, qt-format
 msgid "Sanity status: Danger"
-msgstr "健康状态：危险"
+msgstr "健全狀態: 危險"
 
 #: scriptui.jsxinc:41
 #, qt-format
 msgid "Sanity status: Critical"
-msgstr "健康状态：严重"
+msgstr "健全狀態: 危急"
 
 #: scriptui.jsxinc:43
 #, qt-format
 msgid "Sanity status: Fatal"
-msgstr "健康状态：致命"
+msgstr "健全狀態: 致命"
 
 #: scriptui.jsxinc:57
 #, qt-format
 msgid "OK"
-msgstr "好的"
+msgstr "確定"
 
 #: scriptui.jsxinc:63
 #, qt-format
@@ -185,7 +185,7 @@ msgstr "未知"
 #: scriptui.jsxinc:71
 #, qt-format
 msgid "Information"
-msgstr "信息"
+msgstr "資訊"
 
 #: scriptui.jsxinc:75
 #, qt-format
@@ -195,67 +195,67 @@ msgstr "警告"
 #: scriptui.jsxinc:79
 #, qt-format
 msgid "Danger"
-msgstr "危险"
+msgstr "危險"
 
 #: scriptui.jsxinc:83
 #, qt-format
 msgid "Critical"
-msgstr "严重的"
+msgstr "危急"
 
 #: scriptui.jsxinc:87
 #, qt-format
 msgid "Fatal"
-msgstr "致命的"
+msgstr "致命"
 
 #: scriptui.jsxinc:195
 #, qt-format
 msgid "Run all tests"
-msgstr "运行所有测试"
+msgstr "執行全部測試"
 
 #: scriptui.jsxinc:196
 #, qt-format
 msgid "Run all the tests and displays the results."
-msgstr "运行所有测试并显示结果。"
+msgstr "執行全部測試並顯示結果。"
 
 #: scriptui.jsxinc:246
 #, qt-format
 msgid "Toggle this test for the current project only."
-msgstr "仅针对当前工程启用或禁用此测试。"
+msgstr "僅對目前專案開關這個測試。"
 
 #: scriptui.jsxinc:260
 #, qt-format
 msgid "Enable or disable automatic live-fix."
-msgstr "启用或禁用自动实时修复。"
+msgstr "啟用或停用自動即時修復。"
 
 #: scriptui.jsxinc:271
 #, qt-format
 msgid "Fix now."
-msgstr "立即修复。"
+msgstr "立刻修復。"
 
 #: scriptui.jsxinc:287
 #, qt-format
 msgid "Run the current test."
-msgstr "运行当前测试。"
+msgstr "執行目前的測試。"
 
 #: scriptui.jsxinc:295
 #, qt-format
 msgid "Change the test settings."
-msgstr "修改测试设定。"
+msgstr "更改測試的設定。"
 
 #: scriptui.jsxinc:299
 #, qt-format
 msgid "Options"
-msgstr "选项"
+msgstr "選項"
 
 #: scriptui.jsxinc:302
 #, qt-format
 msgid "Test every:"
-msgstr "测试周期："
+msgstr "測試間隔:"
 
 #: scriptui.jsxinc:338
 #, qt-format
 msgid "Default"
-msgstr "默认"
+msgstr "預設值"
 
 #: comp.jsxinc:589
 #, qt-format
@@ -265,17 +265,17 @@ msgstr "空"
 #: comp.jsxinc:638
 #, qt-format
 msgid "Adjustment layer"
-msgstr "调整图层"
+msgstr "調整圖層"
 
 #: comp.jsxinc:667
 #, qt-format
 msgid "Solid"
-msgstr "固态"
+msgstr "純色"
 
 #: comp.jsxinc:696
 #, qt-format
 msgid "Shape"
-msgstr "形状"
+msgstr "形狀"
 
 #: comp.jsxinc:706
 #, qt-format
@@ -285,17 +285,17 @@ msgstr "矩形"
 #: comp.jsxinc:711
 #, qt-format
 msgid "Rounded rectangle"
-msgstr "圆角矩形"
+msgstr "圓角矩形"
 
 #: comp.jsxinc:717
 #, qt-format
 msgid "Circle"
-msgstr "圆形"
+msgstr "圓形"
 
 #: comp.jsxinc:722
 #, qt-format
 msgid "Polygon"
-msgstr "多边形"
+msgstr "多邊形"
 
 #: comp.jsxinc:728
 #, qt-format
@@ -311,28 +311,28 @@ msgstr "取消"
 #, qt-format
 msgctxt "Select"
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: duscriptui_extension.jsxinc:664
 #, qt-format
 msgid "Select layers"
-msgstr "所选图层"
+msgstr "選擇圖層"
 
 #: layer.jsxinc:478
 #, qt-format
 msgid "The pseudo effect file does not exist."
-msgstr "伪效果文件不存在."
+msgstr "偽效果檔案不存在。"
 
 #: layer.jsxinc:538
 #, qt-format
 msgid "Invalid pseudo effect file or match name."
-msgstr "非法的伪效果文件或匹配名称."
+msgstr "無效的偽效果檔案或不符合名稱。"
 
 #: layer.jsxinc:708
 #, qt-format
 msgctxt "in layer name"
 msgid "Edit mode"
-msgstr "编辑模式"
+msgstr "編輯模式"
 
 #: layer.jsxinc:1506
 #, qt-format
@@ -342,7 +342,7 @@ msgstr "定位器"
 #: project.jsxinc:467
 #, qt-format
 msgid "Project Root"
-msgstr "工程根目录"
+msgstr "專案根目錄"
 
 #: oco.jsxinc:336
 #, qt-format
@@ -352,7 +352,7 @@ msgstr "手臂"
 #: oco.jsxinc:394
 #, qt-format
 msgid "Shoulder"
-msgstr "肩膀"
+msgstr "肩部"
 
 #: oco.jsxinc:443
 #, qt-format
@@ -367,7 +367,7 @@ msgstr "手部"
 #: oco.jsxinc:525
 #, qt-format
 msgid "Claws"
-msgstr "爪子"
+msgstr "爪"
 
 #: oco.jsxinc:561
 #, qt-format
@@ -377,7 +377,7 @@ msgstr "提示"
 #: oco.jsxinc:602
 #, qt-format
 msgid "Heel"
-msgstr "脚跟"
+msgstr "腳跟"
 
 #: oco.jsxinc:664
 #, qt-format
@@ -392,7 +392,7 @@ msgstr "大腿"
 #: oco.jsxinc:711
 #, qt-format
 msgid "Calf"
-msgstr "腿肚"
+msgstr "小腿"
 
 #: oco.jsxinc:732
 #, qt-format
@@ -407,12 +407,12 @@ msgstr "脚趾"
 #: oco.jsxinc:768
 #, qt-format
 msgid "Hoof"
-msgstr "蹄子"
+msgstr "蹄"
 
 #: oco.jsxinc:839
 #, qt-format
 msgid "Spine"
-msgstr "脊柱"
+msgstr "脊椎"
 
 #: oco.jsxinc:857
 #, qt-format
@@ -422,27 +422,27 @@ msgstr "臀部"
 #: oco.jsxinc:878
 #, qt-format
 msgid "Torso"
-msgstr "躯干"
+msgstr "軀體"
 
 #: oco.jsxinc:899
 #, qt-format
 msgid "Neck"
-msgstr "颈部"
+msgstr "頸部"
 
 #: oco.jsxinc:908
 #, qt-format
 msgid "Head"
-msgstr "头部"
+msgstr "頭部"
 
 #: oco.jsxinc:944
 #, qt-format
 msgid "Tail"
-msgstr "尾巴"
+msgstr "尾部"
 
 #: oco.jsxinc:983
 #, qt-format
 msgid "Hair"
-msgstr "头发"
+msgstr "頭髮"
 
 #: oco.jsxinc:1045
 #, qt-format
@@ -452,68 +452,68 @@ msgstr "翅膀"
 #: oco.jsxinc:1127
 #, qt-format
 msgid "Feather"
-msgstr "羽化"
+msgstr "羽毛"
 
 #: oco.jsxinc:1389
 #, qt-format
 msgid "Fin"
-msgstr "鳍"
+msgstr "鰭"
 
 #: oco.jsxinc:1410
 #, qt-format
 msgid "Fishbone"
-msgstr "鱼骨"
+msgstr "魚骨"
 
 #: button.jsxinc:157
 #, qt-format
 msgid "[Shift]: More options..."
-msgstr "[Shift]︰更多选项..."
+msgstr "[Shift]: 更多選項…"
 
 #: colorSelector.jsxinc:65
 #, qt-format
 msgid "Set a random value."
-msgstr "设置一个随机值。"
+msgstr "設定一個隨機數值。"
 
 #. "path for a file or a folder"
 #: fileSelector.jsxinc:65
 #, qt-format
 msgctxt "file system"
 msgid "Path..."
-msgstr "路径..."
+msgstr "路徑..."
 
 #: help.jsxinc:42
 #, qt-format
 msgid "Bug Report or Feature Request"
-msgstr "错误报告或功能请求"
+msgstr "錯誤回報或功能建議"
 
 #: help.jsxinc:43
 #, qt-format
 msgid "Bug report\n"
 "Feature request\n\n"
 "Tell us what's wrong or request a new feature."
-msgstr "错误报告\n"
-"功能请求\n\n"
-"告诉我们怎么了或请求一个新功能。"
+msgstr "問題回報\n"
+"功能建議\n\n"
+"告訴我們哪裡有問題或提出一個新功能建議。"
 
 #: help.jsxinc:86
 #, qt-format
 msgid "Help"
-msgstr "帮助"
+msgstr "說明"
 
 #: help.jsxinc:87
 #, qt-format
 msgid "Get help."
-msgstr "获得帮助."
+msgstr "取得說明。"
 
 #: help.jsxinc:131
 #, qt-format
 msgid "Translate %1"
-msgstr "翻译 %1"
+msgstr "翻譯 %1"
 
 #: help.jsxinc:132
 #, qt-format
 msgid "Help translating %1 to make it available to more people."
-msgstr "帮助翻译 %1 以使其可供更多人使用。"
+msgstr "協助翻譯 %1 讓更多人可以使用。"
 
 #: help.jsxinc:342
 #, qt-format
@@ -523,230 +523,230 @@ msgstr "新版本"
 #: help.jsxinc:480
 #, qt-format
 msgid "Thank you for your donations!"
-msgstr "感谢您的捐赠！"
+msgstr "感謝您的贊助！"
 
 #: help.jsxinc:486
 #, qt-format
 msgid "This month, the %1 fund is $%2.\n"
 "That's %3% of our monthly goal ( $%4 )\n\n"
 "Click on this button to join the development fund!"
-msgstr "本月， %1 的基金为 %2 美元。\n"
-"这是我们每月目标的 %3 % ( $ %4 )\n\n"
-"点击此按钮加入开发基金！"
+msgstr "本月的 %1 資金為 $%2。\n"
+"是我們每月目標 (%4) 的 %3% \n\n"
+"點這個按鈕加入開發資金！"
 
 #. "an item in the After Effects project"
 #: library.jsxinc:162
 #, qt-format
 msgctxt "project"
 msgid "Item"
-msgstr "项目"
+msgstr "項目"
 
 #. "as in "run script""
 #: library.jsxinc:163
 #, qt-format
 msgctxt "file"
 msgid "Run"
-msgstr "执行"
+msgstr "執行"
 
 #: library.jsxinc:164
 #, qt-format
 msgid "Open folder"
-msgstr "打开文件夹"
+msgstr "開啟資料夾"
 
 #: library.jsxinc:165
 #, qt-format
 msgid "Add item or category"
-msgstr "添加项目或类别"
+msgstr "加入項目或類別"
 
 #: library.jsxinc:166
 #, qt-format
 msgid "Edit item or category"
-msgstr "编辑项目或类别"
+msgstr "編輯項目或類別"
 
 #: library.jsxinc:167
 #, qt-format
 msgid "Remove item or category"
-msgstr "移除项目或类别"
+msgstr "移除項目或類別"
 
 #: library.jsxinc:411
 #, qt-format
 msgid "Remove all"
-msgstr "全部移除"
+msgstr "刪除全部"
 
 #: library.jsxinc:421
 #, qt-format
 msgid "Start typing..."
-msgstr "开始输入..."
+msgstr "開始輸入..."
 
 #: library.jsxinc:549
 #, qt-format
 msgid "Refresh"
-msgstr "刷新"
+msgstr "重新整理"
 
 #: library.jsxinc:567
 #, qt-format
 msgid "Category"
-msgstr "类别"
+msgstr "類別"
 
 #: panel.jsxinc:570
 #, qt-format
 msgid "%1 Settings"
-msgstr "%1 设置"
+msgstr "%1 設定"
 
 #: panel.jsxinc:595
 #, qt-format
 msgid "Set the language of the interface."
-msgstr "设置界面的语言."
+msgstr "設定介面的語言。"
 
 #: panel.jsxinc:618
 #, qt-format
 msgid "Settings file"
-msgstr "设置文件"
+msgstr "設定檔案"
 
 #: panel.jsxinc:620
 #, qt-format
 msgid "Set the location of the settings file."
-msgstr "设定设置文件的路径."
+msgstr "設定設定檔案的位置。"
 
 #: panel.jsxinc:631
 #, qt-format
 msgid "Set the highlight color."
-msgstr "设置高亮颜色."
+msgstr "設定突顯的顏色。"
 
 #: panel.jsxinc:634
 #, qt-format
 msgid "After Effects Blue"
-msgstr "After Effects 蓝色"
+msgstr "After Effects 藍"
 
 #: panel.jsxinc:636
 #, qt-format
 msgid "The After Effects highlighting blue"
-msgstr "After Effects 高亮蓝色"
+msgstr "The After Effects 突顯藍"
 
 #: panel.jsxinc:639
 #, qt-format
 msgid "RxLab Purple"
-msgstr "RxLab 紫色"
+msgstr "RxLab 紫"
 
 #: panel.jsxinc:641
 #, qt-format
 msgid "The RxLaboratory Purple"
-msgstr "The RxLaboratory 紫色"
+msgstr "RxLaboratory 紫"
 
 #: panel.jsxinc:644
 #, qt-format
 msgid "Rainbox Red"
-msgstr "Rainbox 红色"
+msgstr "Rainbox 紅"
 
 #: panel.jsxinc:646
 #, qt-format
 msgid "The Rainbox Productions Red"
-msgstr "Rainbox Productions 红"
+msgstr "Rainbox Productions 紅"
 
 #: panel.jsxinc:649
 #, qt-format
 msgid "After Effects Orange (CS6)"
-msgstr "After Effects 橙色 (CS6)"
+msgstr "After Effects 橘 (CS6)"
 
 #: panel.jsxinc:651
 #, qt-format
 msgid "The After Effects highlighting orange from good ol'CS6"
-msgstr "The After Effects CS6 古代高亮橙色"
+msgstr "After Effects 經典 CS6 突顯橘"
 
 #: panel.jsxinc:654
 #, qt-format
 msgid "Custom..."
-msgstr "自定义..."
+msgstr "自訂..."
 
 #: panel.jsxinc:656
 #, qt-format
 msgid "Select a custom color."
-msgstr "选择自定义颜色."
+msgstr "選擇一個自訂的顏色。"
 
 #: panel.jsxinc:663
 #, qt-format
 msgid "Select the UI mode."
-msgstr "选择用户界面模式."
+msgstr "選擇使用者介面模式。"
 
 #: panel.jsxinc:666
 #, qt-format
 msgid "Rookie"
-msgstr "初来乍到"
+msgstr "新手"
 
 #: panel.jsxinc:668
 #, qt-format
 msgid "The easiest-to-use mode, but also the biggest UI."
-msgstr "最容易使用的模式，但也是最大的界面。"
+msgstr "最容易使用的模式，但也是最大的使用者介面。"
 
 #: panel.jsxinc:671
 #, qt-format
 msgid "Standard"
-msgstr "标准"
+msgstr "標準"
 
 #: panel.jsxinc:673
 #, qt-format
 msgid "The standard not-too-big UI."
-msgstr "标准模式，用户界面中等大小."
+msgstr "標準大小適中的使用者介面。"
 
 #: panel.jsxinc:676
 #, qt-format
 msgid "Expert"
-msgstr "专家"
+msgstr "專家"
 
 #: panel.jsxinc:678
 #, qt-format
 msgid "The smallest UI, for expert users."
-msgstr "适合专家使用，用户界面最小."
+msgstr "最小的使用者介面，針對專家使用者。"
 
 #: panel.jsxinc:685
 #, qt-format
 msgid "Normal mode"
-msgstr "常规模式"
+msgstr "普通模式"
 
 #: panel.jsxinc:687
 #, qt-format
 msgid "Use at your own risk!"
-msgstr "自行承担使用风险!"
+msgstr "使用需自行承擔風險！"
 
 #: panel.jsxinc:688
 #, qt-format
 msgid "Dev and Debug mode"
-msgstr "开发和调试模式"
+msgstr "開發和除錯模式"
 
 #: panel.jsxinc:770
 #, qt-format
 msgid "Check for updates"
-msgstr "检查更新"
+msgstr "檢查更新"
 
 #: panel.jsxinc:786
 #, qt-format
 msgid "Reset the settings to their default values."
-msgstr "还原设置到默认值."
+msgstr "將設定重設為其預設值。"
 
 #: panel.jsxinc:793
 #, qt-format
 msgid "Apply"
-msgstr "应用"
+msgstr "套用"
 
 #: panel.jsxinc:795
 #, qt-format
 msgid "Apply settings."
-msgstr "应用设置。"
+msgstr "套用設定。"
 
 #: panel.jsxinc:869
 #, qt-format
 msgid "You may need to restart the script for all changes to take effect."
-msgstr "您可能需要重启脚本才能使所有更改生效。"
+msgstr "您需要重新啟動腳本好讓全部的更改生效。"
 
 #: panel.jsxinc:910
 #, qt-format
 msgid "Help and options"
-msgstr "帮助与选项"
+msgstr "說明和選項"
 
 #: panel.jsxinc:924
 #, qt-format
 msgid "Edit settings"
-msgstr "编辑设置"
+msgstr "編輯設定"
 
 #: progressbar.jsxinc:13
 #, qt-format
@@ -756,20 +756,20 @@ msgstr "工作中"
 #: progressbar.jsxinc:23
 #, qt-format
 msgid "Magic is happening"
-msgstr "神奇的事情正在发生"
+msgstr "魔法正在發生"
 
 #: rssPanel.jsxinc:88
 #, qt-format
 msgid "Previous"
-msgstr "上一个"
+msgstr "上一個"
 
 #: rssPanel.jsxinc:93
 #, qt-format
 msgid "Next"
-msgstr "下一个"
+msgstr "下一個"
 
 #: titleBar.jsxinc:55
 #, qt-format
 msgid "Keep this panel open"
-msgstr "保持此面板打开"
+msgstr "保持開啟這個面板"
 
